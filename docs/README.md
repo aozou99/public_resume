@@ -1,9 +1,5 @@
 # 職務経歴書
 
-<div style="text-align:right;">
-  <small>2025年4月6日 現在</small><br>
-</div>
-
 ## 職務経歴 (概要)
 
 ### 経歴
