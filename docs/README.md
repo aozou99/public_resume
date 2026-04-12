@@ -169,6 +169,10 @@
 
 Wordpress のカスタムブロックと Astro のフロントエンドにおいて、共通デザインやコンポーネントを利用できるようにモノレポ構成へリファクタリングを行い、ダブルメンテを解消し、両ワークスペースでの React や Tailwind のバージョンを統一する仕組みを構築した。
 
+##### テックブログの執筆
+
+- [Claude Code で WordPress プラグインを解析 - 再現できなかった不具合を解決](https://kodansha.tech/ja/blogs/claude-code-with-wordpress-development)
+
 ### 株式会社マネーフォワード (2022-02~2025-01)
 
 #### 業務
